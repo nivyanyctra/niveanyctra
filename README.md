@@ -53,20 +53,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2024 - To: 09 April 2026
+From: 21 November 2024 - To: 10 April 2026
 
-Total Time: 148 hrs 25 mins
+Total Time: 149 hrs 26 mins
 
-Blade Template   50 hrs 36 mins        >>>>>>>>>----------------   34.05 %
-PHP              32 hrs 53 mins        >>>>>>-------------------   22.13 %
-Python           24 hrs 58 mins        >>>>---------------------   16.80 %
-CSS              18 hrs 25 mins        >>>----------------------   12.40 %
-HTML             13 hrs 6 mins         >>-----------------------   08.82 %
-JavaScript       3 hrs 9 mins          >------------------------   02.13 %
-Prolog           2 hrs 21 mins         -------------------------   01.59 %
+Blade Template   50 hrs 36 mins        >>>>>>>>-----------------   33.82 %
+PHP              32 hrs 53 mins        >>>>>--------------------   21.98 %
+Python           24 hrs 58 mins        >>>>---------------------   16.69 %
+CSS              18 hrs 25 mins        >>>----------------------   12.31 %
+HTML             13 hrs 6 mins         >>-----------------------   08.76 %
+JavaScript       3 hrs 9 mins          >------------------------   02.11 %
+Prolog           2 hrs 21 mins         -------------------------   01.58 %
+Dart             1 hr 3 mins           -------------------------   00.71 %
 Perl             35 mins               -------------------------   00.40 %
-Bash             29 mins               -------------------------   00.34 %
-Git Config       26 mins               -------------------------   00.29 %
+Bash             29 mins               -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
