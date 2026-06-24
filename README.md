@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi there! I'm Nivea Nyctra 👋</strong></h1>
+<h1 align="center"><strong>Hi there! I'm Nivya Nyctra 👋</strong></h1>
 
 <p align="center"><strong>Based in Indonesia, specialize in back-end development</strong></p>
 
@@ -15,13 +15,13 @@
 <h2 align="center"><b>Connect with Me</h2>
 
 <p align="center">
-  <a href="https://instagram.com/niveanyctra/" target="_blank">
+  <a href="https://instagram.com/nivyanyctra/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>&nbsp;
   <a href="https://discordapp.com/users/477805354865131520" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>&nbsp;
-  <a href="https://twitter.com/niveanyctra" target="_blank">
+  <a href="https://x.com/nivyanyctra" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
@@ -37,16 +37,16 @@
 <h2 align="center"><b>🗣️ Github Stats</b></h2>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niveanyctra&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niveanyctra&theme=dark"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niveanyctra&theme=dark&border_color=303030&border_radius=4"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivyanyctra&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivyanyctra&theme=dark"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivyanyctra&theme=dark&border_color=303030&border_radius=4"  />
 </div>
 
 &nbsp;
 
 <h2 align="center"><b>🗣️ Github Streak</b></h2>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=niveanyctra&theme=github-dark-blue&border_radius=10&card_width=500&background=0E0E0E&border=303030" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nivyanyctra&theme=github-dark-blue&border_radius=10&card_width=500&background=0E0E0E&border=303030" alt="GitHub Streak" /></a>
 </p>
 &nbsp;
 <h2 align="center"><b>🗣️ Wakatime Stats</b></h2>
